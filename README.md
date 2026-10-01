@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nhu Ba Hung</h1>
-<h3 align="center">I'm a dedicated developer with a passion for technology based in Ho Chi Minh City. Currently, I'm studying SAP at FPT University HCM.</h3>
+<h3 align="center">I'm a dedicated developer with a passion for technology based in Ho Chi Minh City. Currently, I'm studying React/Nodejs at FPT University HCM.</h3>
 
 - 🌱 I’m currently learning **SAP - System Application Programing**
 
