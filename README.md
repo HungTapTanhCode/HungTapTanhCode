@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nhu Ba Hung</h1>
 <h3 align="center">I'm a dedicated developer with a passion for technology based in Ho Chi Minh City. Currently, I'm studying React/Nodejs at FPT University HCM.</h3>
 
-- 🌱 I’m currently learning **SAP - System Application Programing**
+- 🌱 I’m currently learning **FrontEnd Developer**
 
 - 📫 How to reach me **nhubahung19@gmail.com**
 
